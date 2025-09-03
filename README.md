@@ -1,4 +1,4 @@
-## Olá! eu sou Mel Levy
+## Hello world! Welcome to my profile
  
 * 🎓 Sou formado em Análise e Desenvolvimento de Sistemas
 * 🌱 Me aprimorando em C# | Flutter
