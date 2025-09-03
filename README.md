@@ -1,8 +1,9 @@
-## Hello world! Welcome to my profile
- 
-* 🎓 Sou formado em Análise e Desenvolvimento de Sistemas
-* 🌱 Me aprimorando em C# | Flutter
-* 📖 Procurando aprender novos idiomas
+# 👋 Olá, eu sou o Mel Levy!
+- 🔭 Experiências com C# .NET e Flutter
+- 🌱 Aprendendo mais sobre desenvolvimento mobile
+- 📖 Procurando aprender novos idiomas
+- 💬 Pergunte-me sobre qualquer coisa
+
 
 ### 🖳 Linguagens e Tecnologias
   <div style="display: inline_block"><br>
